@@ -1,11 +1,16 @@
 _repo: Corpus-earthling_70760
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70760-h/images/bcover.jpg
 creator:
   author:
     agent_name: Charbonneau, Louis
     gutenberg_agent_id: '55910'
     url: http://www.gutenberg.org/2009/agents/55910
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70760#Corpus-earthling
 gutenberg_issued: '2023-05-14'
 identifiers:
   gutenberg: '70760'
